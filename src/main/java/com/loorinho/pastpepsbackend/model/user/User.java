@@ -1,4 +1,4 @@
-package com.loorinho.pastpepsbackend.entity;
+package com.loorinho.pastpepsbackend.model.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
